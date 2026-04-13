@@ -16,7 +16,7 @@ const PROJECTS = [
   {
     title: "Snake Delivery",
     category: "Mobile App · React Native · Expo",
-    year: "2025",
+    year: "2026",
     description:
       "Aplicativo mobile de delivery desenvolvido com React Native e Expo, com foco em experiência do usuário, rastreamento em tempo real e integração com APIs de pagamento.",
     image: snackLogo,
